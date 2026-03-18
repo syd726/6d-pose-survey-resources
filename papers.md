@@ -3,10 +3,10 @@
 ## Traditional Methods
 
 ### Local Feature-Based Methods
-- SIFT — Paper: [link]
-- SURF — Paper: [link]
-- ORB — Paper: [link]
-- Point Pair Feature (PPF) — Paper: [link]
+- SIFT — Paper: https://ieeexplore.ieee.org/abstract/document/790410
+- SURF — Paper: https://link.springer.com/chapter/10.1007/11744023_32
+- ORB — Paper: https://ieeexplore.ieee.org/abstract/document/6126544
+- Point Pair Feature (PPF) — Paper: 
 
 ### Template Matching Methods
 - LineMOD — Paper: [link]
